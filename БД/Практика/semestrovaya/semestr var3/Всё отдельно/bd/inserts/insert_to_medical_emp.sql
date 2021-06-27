@@ -1,0 +1,17 @@
+SET SQLBLANKLINES ON;
+
+INSERT INTO medical_employee
+(EMPLOYEE_ID, EXPERIENCE, POSITION, LAST_NAME, FIRST_NAME, PATRONYMIC)
+VALUES
+(10001, 12, 'surgeon', 'Petrov', 'Petr', 'Petrovich');
+
+INSERT INTO medical_employee
+(EMPLOYEE_ID, EXPERIENCE, POSITION, LAST_NAME, FIRST_NAME, PATRONYMIC)
+VALUES
+(10002, 13, 'surgeon', 'Ivanov', 'Ivan', 'Ivanovich');
+
+
+INSERT INTO medical_employee
+(EMPLOYEE_ID, EXPERIENCE, POSITION, LAST_NAME, FIRST_NAME, PATRONYMIC)
+VALUES
+(10003, 10, 'nurse', 'Klimova', 'Elena', 'Ivanovna');

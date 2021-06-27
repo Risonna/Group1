@@ -1,0 +1,1 @@
+call "3_client_compilng.bat"
